@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://schreinerei-muenchen-48426cf8.itdone.cloud/sitemap.xml
